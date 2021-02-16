@@ -1,34 +1,34 @@
 # SimpleShoppingList
 Simple Shopping List application created with with Electron
 
-###Version:
+### Version:
 1.0.0
 
-###USAGE
-##Installation:
+### USAGE
+## Installation:
 ```sh
 npm install
 ```
 
-###SERVE
-##To run electron app:
+### SERVE
+## To run electron app:
 ```sh
 npm start
 ```
 
-##PACKAGE AND BUILD
-#WINDOWS
+## PACKAGE AND BUILD
+# WINDOWS
 ```sh
 npm run package-win
 ```
-#LINUX
+# LINUX
 ```sh
 npm run package-linux
 ```
-#MAC
+# MAC
 ```sh
 npm run package-mac
 ```
 
-Credits
+# Credits
 This is a sample project made from scratch with the help of tutorials from Brad Traversy.
